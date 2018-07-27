@@ -1,0 +1,52 @@
+h1{border:.8em;
+background-color: skyblue;
+color: grey;
+text-align: center;
+width: 10em;
+margin-left:auto;
+margin-right:auto;
+border-color:wheat;
+border-style:ridge;
+}
+body{
+    background-image: url("asc.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: lightslategray;
+    background-attachment: fixed;
+    
+}
+.navBar{border:solid;
+border-color: black;
+justify-content: space-around;
+align-content: center;
+display: flex;
+font-size:1.1em;
+text-decoration: none;
+color:black;
+}
+
+.info{
+font-size: 1em;
+}
+a:link{
+    color: lightslategray;
+
+}
+
+a:visited{
+
+    color: grey;
+
+}
+
+a:hover{
+color: lightseagreen;
+}
+
+a:active{
+    color: lightslategray;
+}
